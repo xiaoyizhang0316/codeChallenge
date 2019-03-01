@@ -1,6 +1,3 @@
-//let command = process.argv[2];
-//console.log('Command:',command);
-
 const xMax = 5;
 const yMax = 5;
 const xMin = -1;
